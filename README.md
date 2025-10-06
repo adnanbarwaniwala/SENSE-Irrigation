@@ -58,26 +58,15 @@ By the end of the day — water saved, plants happy, and zero guesswork. 🌾
 - Hourly ETo and ETc calculations  
 - Rainfall forecast integration  
 - Automatic irrigation scheduling logic  
-- Simple text-based data logging  
-- Modular, easily expandable Python code  
+- Text-based data logging  
 
 ---
 
 ### 🚀 Future Plans  
 
 - Add **wireless connectivity** (Wi-Fi or LoRa)  
-- Create a **Streamlit dashboard** for live visualization  
-- Integrate **machine learning** for predictive irrigation  
-
----
-
-### 👨‍💻 Author  
-
-**Adnan Barwaniwala**  
-AI & Computer Science student at **UC San Diego**  
-Building the bridge between **AI, sensors, and sustainable farming** 🌱  
-
-📫 [GitHub Profile](https://github.com/adnanbarwaniwala)  
+- Create a **Streamlit dashboard** for live data visualization  
+- Connecting the code to pumps and pipes to automate the irrigation process.
 
 ---
 
@@ -87,9 +76,12 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-### 🌟 Quick Peek  
+## Contact
 
-🌤 Sensor Data → API Data → Evapotranspiration → Soil Water → Smart Irrigation
+For questions or suggestions, feel free to open an issue or reach out:
 
+- **Email**: [adnanbarwaniwala7@gmail.com](mailto:adnanbarwaniwala7@gmail.com)
 
-> “Measure smart. Water smarter. Grow better.” 💧
+## 🙏 Thank You
+
+Thank you for exploring SENSE Irrigation! I hope you find it useful.
