@@ -1,4 +1,4 @@
-from sipp_final_project_functions import *
+from functions import *
 
 while True:
     T_sensor, RH_sensor, soil_sensor_raw = read_data_from_metro()
@@ -29,3 +29,4 @@ while True:
                  f"{irrigation_dict['soil_pct_pred']}, {irrigation_dict['irrigation_mm']}\n")
 
     time.sleep(3600)
+
