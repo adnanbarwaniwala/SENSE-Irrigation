@@ -25,7 +25,7 @@ It combines **real-time sensor readings** with **live weather data** to make hou
 
 ---
 
-SENSE-Irrigation/
+SENSE-Irrigation
 │
 ├── main.py                # Main script that runs the full hourly irrigation logic.
 ├── functions.py           # Contains all modular functions: sensor reading, ETo, ETc, soil water, irrigation calculation, etc.
