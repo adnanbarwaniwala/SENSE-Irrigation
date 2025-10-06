@@ -14,7 +14,7 @@ It combines **real-time sensor readings** with **live weather data** to make hou
 
 ### ⚙️ How It Works  
 
-1. 🌡️ The **Metro M0 Express** reads temperature and humidity using a **DHT11** sensor.  
+1. 🌡️ The **Metro M0 Express board** reads temperature and humidity using a **DHT11** sensor.  
 2. 🌱 The **YL-69 soil moisture probe** measures how much water is left in the soil.  
 3. 🌤️ The system pulls **hourly weather data** (solar radiation, wind speed, pressure, rainfall) from the **Open-Meteo API**.  
 4. 💻 Using the **RefET** library, it calculates **Reference Evapotranspiration (ETo)** via the **FAO-56 Penman-Monteith** equation — the gold standard in irrigation science.  
