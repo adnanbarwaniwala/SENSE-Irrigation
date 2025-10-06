@@ -5,7 +5,7 @@
 
 ### 💧 Overview  
 
-**SENSE-Irrigation** is a Python-powered system that decides *when* and *how much* to irrigate crops — automatically, precisely, and intelligently.  
+**SENSE-Irrigation** () is a Python-powered system that decides *when* and *how much* to irrigate crops — automatically, precisely, and intelligently.  
 It combines **real-time sensor readings** with **live weather data** to make hour-by-hour irrigation decisions, conserving water while keeping the soil perfectly balanced.  
 
 > Think of it as your crop’s personal water manager — always watching, thinking, and acting on time.  
