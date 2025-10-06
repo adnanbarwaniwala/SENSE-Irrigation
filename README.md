@@ -23,6 +23,10 @@ It combines **real-time sensor readings** with **live weather data** to make hou
 7. 🚰 If the soil moisture is predicted to fall below **60%**, the system calculates how much irrigation is needed to bring it back to the **60–80% safe zone**.  
 8. 📜 All results — soil readings, forecasts, and irrigation recommendations — are logged in `irrigation_data.txt`.
 
+<p align="center">
+  <img src="code_logic.jpg" alt="Setup" width="400"/>
+</p>
+
 ---
 
 ## Repo Structure
