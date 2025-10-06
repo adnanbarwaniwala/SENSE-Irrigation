@@ -32,6 +32,7 @@ It combines **real-time sensor readings** with **live weather data** to make hou
 - `LICENSE`: Project license (Apache 2.0).
 - `README.md`: Project overview, setup instructions, and usage details.
 
+---
 
 ### 🧠 Tech Stack  
 
