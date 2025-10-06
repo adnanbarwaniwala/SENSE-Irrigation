@@ -25,6 +25,15 @@ It combines **real-time sensor readings** with **live weather data** to make hou
 
 ---
 
+SENSE-Irrigation/
+│
+├── main.py                # Main script that runs the full hourly irrigation logic.
+├── functions.py           # Contains all modular functions: sensor reading, ETo, ETc, soil water, irrigation calculation, etc.
+├── irrigation_data.txt    # Stores hourly soil water and irrigation data logs.
+├── LICENSE                # Project license (Apache 2.0).
+└── README.md              # Project overview, setup instructions, and usage details.
+
+
 ### 🧠 Tech Stack  
 
 | Component | Purpose |
